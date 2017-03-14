@@ -1,5 +1,5 @@
 # AnimateToast
-![Image text](https://github.com/tenny1225/AnimateToast/raw/master/image/xz.png)
+![Image text](https://github.com/tenny1225/AnimateToast/raw/master/image/xz.gif)
 ```java
 
         btn1.setOnClickListener(new View.OnClickListener() {
