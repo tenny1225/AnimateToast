@@ -1,5 +1,5 @@
 # AnimateToast
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://raw.github.com/tenny1225/repositpry/master/AnimateToast/image/xz.gif)
 ```java
 
         btn1.setOnClickListener(new View.OnClickListener() {
